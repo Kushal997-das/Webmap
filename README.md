@@ -104,7 +104,7 @@ Code Links:
 Live Demo:
 ---------------
 
-<img align='center' alt='png' width='300px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/gif.gif"/> <br>
+<img align='center' alt='png' width='400px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/gif.gif"/> <br>
 
 
 
