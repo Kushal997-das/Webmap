@@ -56,7 +56,12 @@ m = folium.Map(location=[46.961580, -102.560670], tiles='Mapbox Bright', zoom_st
 
 #### That's how the map look like after executing the code.<br><br>
 
-<a href=https://www.latlong.net/>How to check the latitide and Longitude for any location:</a><br><br>
+
+How to check the latitide and Longitude for any location:
+---------------------------------------------------------
+https://www.latlong.net/
+
+<br>
 
 #### In the above map we are unable to find the exact location right? That's the reason we are using icon for this and also use popup for displaying the location name.<br>
 
