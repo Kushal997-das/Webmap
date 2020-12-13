@@ -36,9 +36,9 @@ m = folium.Map(location=[46.961580, -102.560670], tiles='Mapbox Bright', zoom_st
 
 <img align="Center" alt="GIF"  width="300px" src="https://github.com/Kushal997-das/Webmap/blob/master/Images/output1.png" />
 
-#### That's how the map look like after executing the code.<br>
+#### That's how the map look like after executing the code.<br><br>
 
-<a href=https://www.latlong.net/>How to check the latitide and Longitude for any location:</a><br>
+<a href=https://www.latlong.net/>How to check the latitide and Longitude for any location:</a><br><br>
 
 #### In the above map we are unable to find the exact location right? That's the reason we are using icon for this and also use popup for displaying the location name.<br>
 
@@ -48,12 +48,23 @@ folium.Marker(location=[46.961580, -102.560670],popup='india',icon=folium.Icon(i
 
 <img align='center' alt='png' width='300px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/output2.png"/>
 
-#### That's how the map look like after executing the code. <br>
+#### That's how the map look like after executing the code. <br><br>
 
 
-#create city markers and add them to map object
-folium.Marker(location=[26.787964, -82.198555],popup='Ayodhya RamMandir',icon=folium.Icon(icon='cloud')).add_to(m)
-folium.Marker(location=[27.175014, -78.042152],popup='Taj Mahal',icon=folium.Icon(color='place')).add_to(m)
-folium.Marker(location=[35.447601, -76.274803],popup='Ladakh',icon=folium.Icon(color='red', icon='mandir')).add_to(m)
-m
+### Now we are going to locate three famous places in India using their Latitude and Longitude and put the image over the location.So that we can easily find out where the locations are:
+- Ayodhya RamMandir.
+- Taj Mahal.
+- Ladakh.
+<br><br>
 
+```python3
+m = folium.Map(tiles='Stamen Toner', zoom_start=4)
+ladakh = folium.features.CustomIcon("ladakh.jpg", icon_size=(100,100))
+taj_mahhel = folium.features.CustomIcon("taj mahel.jpg", icon_size=(100,100))
+rammandir= folium.features.CustomIcon("rammandir.jpg", icon_size=(100, 100))
+folium.Marker([40.743720, -73.822030], tooltip="Ladakh", popup='Ladakh,India', icon=ladakh).add_to(m)
+folium.Marker([39.760979, -84.192200], tooltip="Taj Mahal", popup='Taj Mahal,India', icon=taj_mahhel).add_to(m)
+folium.Marker([54.464180, -110.182259], tooltip="Ayodhya RamMandir", popup='Ayodhya RamMandir,India', icon=rammandir).add_to(m)
+```
+
+<img align='center' alt='png' width='300px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/outpu3.png"/>
