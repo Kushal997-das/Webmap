@@ -1,15 +1,20 @@
-..
-.
+Pre-requisites:
+--------------
+    folium
+
+
+
+
+
 Installation
 ------------
 
-.. code:: bash
+
 
     $ pip install folium
 
 or
 
-.. code:: bash
 
     $ conda install -c conda-forge folium
 
