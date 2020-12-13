@@ -7,6 +7,7 @@
 [![](https://img.shields.io/github/languages/top/kushal997-das/Webmap.svg?style=plastic)](https://github.com/kushal997-das/Webmap)
 [![GitHub issues](https://img.shields.io/github/issues/kushal997-das/Webmap.svg)](https://github.com/kushal997-das/Webmap/issues) [![GitHub forks](https://img.shields.io/github/forks/kushal997-das/Webmap.svg)](https://github.com/kushal997-das/Webmap/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/Webmap.svg)](https://github.com/kushal997-das/Webmap/stargazers)
 ![GitHub contributors](https://img.shields.io/github/contributors/Kushal997-das/Webmap)
+[![](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-visualization/folium/master?filepath=examples)
 <br>
 
 
