@@ -32,11 +32,24 @@ m = folium.Map(tiles='Stamen Toner', zoom_start=4)
 ```python3
 m = folium.Map(location=[46.961580, -102.560670], tiles='Mapbox Bright', zoom_start=4)
 #m = folium.Map(location=[Latitude, Longitude])
-
 ```
-#### That's how map look like after executing the code.
 
 <img align="Center" alt="GIF"  width="300px" src="https://github.com/Kushal997-das/Webmap/blob/master/Images/output1.png" />
+
+#### That's how the map look like after executing the code.<br>
+
+<a href=https://www.latlong.net/>How to check the latitide and Longitude for any location:</a><br>
+
+#### In the above map we are unable to find the exact location right? That's the reason we are using icon for this and also use popup for displaying the location name.<br>
+
+```python3
+folium.Marker(location=[46.961580, -102.560670],popup='india',icon=folium.Icon(icon='cloud')).add_to(m)
+```
+
+<img align='center' alt='png' width='300px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/output2.png"/>
+
+#### That's how the map look like after executing the code. <br>
+
 
 #create city markers and add them to map object
 folium.Marker(location=[26.787964, -82.198555],popup='Ayodhya RamMandir',icon=folium.Icon(icon='cloud')).add_to(m)
