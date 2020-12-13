@@ -66,5 +66,6 @@ folium.Marker([40.743720, -73.822030], tooltip="Ladakh", popup='Ladakh,India', i
 folium.Marker([39.760979, -84.192200], tooltip="Taj Mahal", popup='Taj Mahal,India', icon=taj_mahhel).add_to(m)
 folium.Marker([54.464180, -110.182259], tooltip="Ayodhya RamMandir", popup='Ayodhya RamMandir,India', icon=rammandir).add_to(m)
 ```
+<br>
 
 <img align='center' alt='png' width='300px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/outpu3.png"/>
