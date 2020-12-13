@@ -7,10 +7,10 @@
 [![](https://img.shields.io/github/languages/top/kushal997-das/Webmap.svg?style=plastic)](https://github.com/kushal997-das/Webmap)
 [![GitHub issues](https://img.shields.io/github/issues/kushal997-das/Webmap.svg)](https://github.com/kushal997-das/Webmap/issues) [![GitHub forks](https://img.shields.io/github/forks/kushal997-das/Webmap.svg)](https://github.com/kushal997-das/Webmap/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/Webmap.svg)](https://github.com/kushal997-das/Webmap/stargazers)
 ![GitHub contributors](https://img.shields.io/github/contributors/googlemaps/google-maps-services-python)
-<br><br>
+<br>
 
 
-<img align='center' alt='png' width='370px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/gif.gif"/> <br>
+
 
 
 
@@ -104,7 +104,7 @@ Code Links:
 Live Demo:
 ---------------
 
-
+<img align='center' alt='png' width='300px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/gif.gif"/> <br>
 
 
 
@@ -116,11 +116,6 @@ Copyright (c) 2020 Kushal Das
 This project is licensed under the MIT License
 
 <br><br>
-
-
-
-
-
 
 
 <p align="center">
