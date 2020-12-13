@@ -91,17 +91,18 @@ folium.Marker([54.464180, -110.182259], tooltip="Ayodhya RamMandir", popup='Ayod
 print(m)
 ```
 <br>
-<img align='center' alt='png' width='370px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/outpu3.png"/>
+<img align='center' alt='png' width='370px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/outpu3.png"/> <br>
+
+Code Links:
+----------
+
+<a href="https://github.com/Kushal997-das/Webmap/blob/master/map.py">View source code in (.py)</a>
+<a href="https://github.com/Kushal997-das/Webmap/blob/master/map1.ipynb">View souce code in (.ipynb)</a>
+<a href="https://github.com/Kushal997-das/Webmap/blob/master/map.html">View HTML file</a> <br>
 
 
-
-
-
-
-
-
-
-
+Final Output:
+---------------
 
 <img align='center' alt='png' width='370px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/gif.gif"/> <br>
 
