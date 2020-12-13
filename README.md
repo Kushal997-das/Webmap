@@ -70,4 +70,7 @@ folium.Marker([54.464180, -110.182259], tooltip="Ayodhya RamMandir", popup='Ayod
 ```
 <br>
 
-<img align='center' alt='png' width='370px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/outpu3.png"/>
+<img align='center' alt='png' width='370px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/outpu3.png"/> <br>
+
+
+<a href="http://localhost:63342/Searching%20specific%20location%20using%20Python/map.html?_ijt=8ug0c432aqbrjb7ofot2vbs44t">View the map on the web</a>
