@@ -24,7 +24,7 @@ or
 ```python3
 import folium
 ```
-### creating a map object:
+### create a map object:
 ```python3
 m = folium.Map(tiles='Stamen Toner', zoom_start=4)
 #different tiles (map styles) can be used, like 'Stamen Toner', 'Stamen Terrain', ...
@@ -68,4 +68,4 @@ folium.Marker([54.464180, -110.182259], tooltip="Ayodhya RamMandir", popup='Ayod
 ```
 <br>
 
-<img align='center' alt='png' width='300px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/outpu3.png"/>
+<img align='center' alt='png' width='370px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/outpu3.png"/>
