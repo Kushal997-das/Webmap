@@ -96,8 +96,8 @@ print(m)
 Code Links:
 ----------
 
-<a href="https://github.com/Kushal997-das/Webmap/blob/master/map.py">View source code in (.py)</a>
-<a href="https://github.com/Kushal997-das/Webmap/blob/master/map1.ipynb">View souce code in (.ipynb)</a>
+<a href="https://github.com/Kushal997-das/Webmap/blob/master/map.py">View source code in (.py)</a><br>
+<a href="https://github.com/Kushal997-das/Webmap/blob/master/map1.ipynb">View souce code in (.ipynb)</a><br>
 <a href="https://github.com/Kushal997-das/Webmap/blob/master/map.html">View HTML file</a> <br>
 
 
