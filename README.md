@@ -11,8 +11,6 @@
 <br>
 
 
-add
-http://localhost:63342/Searching%20specific%20location%20using%20Python/map.html?_ijt=6fumqmfas7mr2mo2eo3uv821t7
 
 
 
@@ -109,7 +107,10 @@ Live Demo:
 <img align='center' alt='png' width='400px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/gif.gif"/> <br>
 
 
-
+Click the link to show the map:
+------------------------------
+http://localhost:63342/Searching%20specific%20location%20using%20Python/map.html?_ijt=6fumqmfas7mr2mo2eo3uv821t7
+<br>
 
 LICENSE:
 ---------
