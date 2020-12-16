@@ -25,12 +25,9 @@ Pre-requisites:
 Installation:
 ------------
 
-
-
-    $ pip install folium
+     $ pip install folium
 
 or
-
 
     $ conda install -c conda-forge folium
 
@@ -76,6 +73,7 @@ folium.Marker(location=[46.961580, -102.560670],popup='india',icon=folium.Icon(i
 - Ladakh.
 <br><br>
 
+
 ```python3
 m = folium.Map(tiles='Stamen Toner', zoom_start=4)
 ladakh = folium.features.CustomIcon("ladakh.jpg", icon_size=(100,100))
@@ -107,7 +105,6 @@ Contributing
 Please see [CONTRIBUTING](https://github.com/Kushal997-das/Webmap/blob/master/CONTRIBUTING.md) ,
 [CONTRIBUTING-CODE](https://github.com/Kushal997-das/Webmap/blob/master/Contributing%20code.md) for details before you contribute. <br>
 
-
 LICENSE:
 ---------
 Copyright (c) 2020 Kushal Das
@@ -115,7 +112,6 @@ Copyright (c) 2020 Kushal Das
 This project is licensed under the GNU General Public License v3.0
 
 <br><br>
-
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -132,9 +128,6 @@ This project is licensed under the GNU General Public License v3.0
 [linkedin]: https://www.linkedin.com/in/kushal-das-7337421a9/
 [github]: https://github.com/Kushal997-das/
 
-
-
-  
 If you have any Queries or Suggestions, feel free to reach out to me.
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
