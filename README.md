@@ -12,7 +12,7 @@
 
 Folium
 -------
-- Folium is a powerful Python library that helps you create several types of Leaflet maps. ... To get an idea, just zoom/click around on the next map to get an impression.<br> 
+- Folium is a powerful Python library that helps you create several types of Leaflet maps. ... To get an idea, just zoom/click around on the next map to get an impression.
 
 Documentation
 ----------------
