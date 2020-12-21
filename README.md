@@ -9,7 +9,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Kushal997-das/Webmap)
 [![](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-visualization/folium/master?filepath=examples)
 <br>
-
 Folium
 -------
 - Folium is a powerful Python library that helps you create several types of Leaflet maps. ... To get an idea, just zoom/click around on the next map to get an impression.
