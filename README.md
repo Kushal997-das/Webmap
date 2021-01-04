@@ -10,7 +10,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Kushal997-das/Webmap)
 [![](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-visualization/folium/master?filepath=examples)
 <br>
-[![](https://img.shields.io/badge/Project-Webmap-red.svg)](https://github.com/Kushal997-das) <br>
+<img height="27" src="https://img.shields.io/badge/Webmap-pink.svg?&style=for-the-badge&logo=The&logoColor=red" />
 
 Folium
 -------
