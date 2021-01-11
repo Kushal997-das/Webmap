@@ -105,7 +105,7 @@ Live Demo:
 Contributing
 --------------
 Please see [CONTRIBUTING](https://github.com/Kushal997-das/Webmap/blob/master/CONTRIBUTING.md) ,
-[CONTRIBUTING-CODE](https://github.com/Kushal997-das/Webmap/blob/master/Contributing%20code.md) for details before you contribute. <br>
+[CONTRIBUTING-CODE](https://github.com/Kushal997-das/Webmap/blob/master/Contributing%20code.md) , [CODE_OF_CONDUCT](https://github.com/Kushal997-das/Webmap/blob/master/CODE_OF_CONDUCT.md) for details before you contribute. <br>
 
 LICENSE:
 ---------
