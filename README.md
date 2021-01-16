@@ -3,7 +3,7 @@
 [![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das)
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
-[![](https://img.shields.io/github/license/Kushal997-das/Webmap.svg?style=plastic)](https://github.com/Kushal997-das/Webmap)
+[![](https://img.shields.io/github/license/Kushal997-das/Webmap.svg?)](https://github.com/Kushal997-das/Webmap)
 [![](https://img.shields.io/github/languages/code-size/kushal997-das/Webmap.svg?style=plastic)](https://github.com/kushal997-das/Webmap)
 [![](https://img.shields.io/github/languages/top/kushal997-das/Webmap.svg?style=plastic)](https://github.com/kushal997-das/Webmap)
 [![GitHub issues](https://img.shields.io/github/issues/kushal997-das/Webmap.svg)](https://github.com/kushal997-das/Webmap/issues) [![GitHub forks](https://img.shields.io/github/forks/kushal997-das/Webmap.svg)](https://github.com/kushal997-das/Webmap/network) [![GitHub stars](https://img.shields.io/github/stars/Kushal997-das/Webmap.svg)](https://github.com/kushal997-das/Webmap/stargazers)
