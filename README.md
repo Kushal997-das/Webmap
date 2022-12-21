@@ -45,7 +45,9 @@ m = folium.Map(location=[46.961580, -102.560670], tiles='Mapbox Bright', zoom_st
 #m = folium.Map(location=[Latitude, Longitude])
 ```
 
-<img align="Center" alt="GIF"  width="300px" src="https://github.com/Kushal997-das/Webmap/blob/master/Images/output1.png" />
+<img align="Center" alt="Output1"  width="300px" src="https://user-images.githubusercontent.com/61356005/208805554-2b0adde7-bc3f-4e65-9929-fbd7bd3a6cff.png" />
+
+
 
 #### That's how the map look like after executing the code.<br><br>
 
@@ -62,7 +64,9 @@ https://www.latlong.net/
 folium.Marker(location=[46.961580, -102.560670],popup='india',icon=folium.Icon(icon='cloud')).add_to(m)
 ```
 
-<img align='center' alt='png' width='300px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/output2.png"/>
+<img align='center' alt='output2' width='300px' src="https://user-images.githubusercontent.com/61356005/208805688-c39d12a9-f9ca-4386-a686-ab617a907af5.png"/>
+
+
 
 #### That's how the map look like after executing the code. <br><br>
 
@@ -85,7 +89,9 @@ folium.Marker([54.464180, -110.182259], tooltip="Ayodhya RamMandir", popup='Ayod
 print(m)
 ```
 <br>
-<img align='center' alt='png' width='370px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/outpu3.png"/> <br>
+<img align='center' alt='png' width='370px' src="https://user-images.githubusercontent.com/61356005/208805772-3fada78f-5e07-42b5-b1ef-4ed71a369725.png"/> <br>
+
+
 
 Code Links:
 ----------
@@ -98,7 +104,9 @@ Code Links:
 Live Demo:
 ---------------
 
-<img align='center' alt='png' width='400px' src="https://github.com/Kushal997-das/Webmap/blob/master/Images/gif.gif"/> <br>
+<img align='center' alt='live demo' width='400px' src="https://user-images.githubusercontent.com/61356005/208805869-b8ab0838-eed9-4430-9b82-df07c18bfdb1.gif"/> <br>
+
+
 
 Contributing
 --------------
